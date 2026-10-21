@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ibis-project/ibis-substrait/commit/2cf1e0769ea93859be832cfa1554b4351e0f235f",
       "git:hexsha": "2cf1e0769ea93859be832cfa1554b4351e0f235f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/ibis-project/ibis-substrait/commit/768842f17f3e1a674fdeedf96d2706a871a9c38f",
