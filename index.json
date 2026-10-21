@@ -1,0 +1,11 @@
+{
+  "org": "ibis-project",
+  "repo": "ibis-substrait",
+  "versions": [
+    {
+      "commit": "2cf1e0769ea93859be832cfa1554b4351e0f235f",
+      "tag": "",
+      "parsed_at": "2026-10-21T19:59:08.223509+00:00"
+    }
+  ]
+}
